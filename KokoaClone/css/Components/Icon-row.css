@@ -1,0 +1,26 @@
+.icon-2X2 {
+  display: flex;
+  flex-direction: column;
+}
+.icons-row:first-child {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.icons-row__icon {
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.opactiy0 {
+  opacity: 0;
+}
+
+.icons-row__icon i {
+  font-size: 25px;
+  margin-bottom: 15px;
+}

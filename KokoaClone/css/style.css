@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import "reset.css";
+@import "veriables.css";
+
+/* Components */
+@import "Components/Status-bar.css";
+@import "Components/nav-bar.css";
+@import "Components/Screen-header.css";
+@import "Components/User-Component.css";
+@import "Components/cog-screen-header.css";
+@import "Components/badge.css";
+@import "Components/Icon-row.css";
+@import "Components/alt-header.css";
+@import "Components/no-mobile.css";
+
+/* Screens */
+@import "screen/login.css";
+@import "screen/find.css";
+@import "screen/More-screen-header.css";
+@import "screen/more.css";
+@import "screen/settings.css";
+@import "screen/chat-screen.css";
+@import "screen/friends.css";
+
+body {
+  font-family: "Open Sans", sans-serif;
+  height: 110vh;
+  background-color: #a6a368;
+}
+
+.main-screen {
+  padding: 0px var(--horizental-space);
+}

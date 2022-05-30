@@ -1,0 +1,10 @@
+.cog-circle1 {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: tomato;
+  display: flex;
+  position: absolute;
+  left: 105px;
+  bottom: 20px;
+}
