@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 Update
 
-HTML & CSS are so much fun!
+2021 kakao talk clone coding toy project
